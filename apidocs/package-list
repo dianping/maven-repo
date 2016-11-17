@@ -1,0 +1,7 @@
+com.dianping.pigeon.compress
+com.dianping.pigeon.container
+com.dianping.pigeon.domain
+com.dianping.pigeon.extension
+com.dianping.pigeon.log
+com.dianping.pigeon.threadpool
+com.dianping.pigeon.util
