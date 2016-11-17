@@ -1,3 +1,2 @@
-com.dianping.pigeon.config
-com.dianping.pigeon.config.file
-com.dianping.pigeon.config.spring
+com.dianping.pigeon.monitor
+com.dianping.pigeon.monitor.simple
