@@ -1,2 +1,4 @@
-com.dianping.pigeon.monitor
-com.dianping.pigeon.monitor.simple
+com.dianping.pigeon.registry
+com.dianping.pigeon.registry.exception
+com.dianping.pigeon.registry.listener
+com.dianping.pigeon.registry.util
