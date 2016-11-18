@@ -7,7 +7,7 @@ pom.xml:
     <repositories>
         <repository>
             <id>github-dianping-maven-repo</id>
-            <url>https://raw.githubusercontent.com/dianping/maven-repo/master/repository</url>
+            <url>https://raw.githubusercontent.com/dianping/maven-repo/master</url>
         </repository>
     </repositories>
 ```
