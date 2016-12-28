@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.dianping</groupId>
+  <artifactId>pigeon-parent</artifactId>
+  <version>2.9.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161228.072550</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20161228072550</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.9.8-20161228.072550-1</value>
+        <updated>20161228072550</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
